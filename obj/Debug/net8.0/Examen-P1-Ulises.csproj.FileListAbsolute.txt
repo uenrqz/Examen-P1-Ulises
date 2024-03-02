@@ -1,0 +1,15 @@
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/Examen P1 Ulises/Examen-P1-Ulises/bin/Debug/net8.0/Examen-P1-Ulises
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/Examen P1 Ulises/Examen-P1-Ulises/bin/Debug/net8.0/Examen-P1-Ulises.deps.json
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/Examen P1 Ulises/Examen-P1-Ulises/bin/Debug/net8.0/Examen-P1-Ulises.runtimeconfig.json
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/Examen P1 Ulises/Examen-P1-Ulises/bin/Debug/net8.0/Examen-P1-Ulises.dll
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/Examen P1 Ulises/Examen-P1-Ulises/bin/Debug/net8.0/Examen-P1-Ulises.pdb
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/Examen P1 Ulises/Examen-P1-Ulises/obj/Debug/net8.0/Examen-P1-Ulises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/Examen P1 Ulises/Examen-P1-Ulises/obj/Debug/net8.0/Examen-P1-Ulises.AssemblyInfoInputs.cache
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/Examen P1 Ulises/Examen-P1-Ulises/obj/Debug/net8.0/Examen-P1-Ulises.AssemblyInfo.cs
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/Examen P1 Ulises/Examen-P1-Ulises/obj/Debug/net8.0/Examen-P1-Ulises.csproj.CoreCompileInputs.cache
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/Examen P1 Ulises/Examen-P1-Ulises/obj/Debug/net8.0/Examen-P1-Ulises.sourcelink.json
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/Examen P1 Ulises/Examen-P1-Ulises/obj/Debug/net8.0/Examen-P1-Ulises.dll
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/Examen P1 Ulises/Examen-P1-Ulises/obj/Debug/net8.0/refint/Examen-P1-Ulises.dll
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/Examen P1 Ulises/Examen-P1-Ulises/obj/Debug/net8.0/Examen-P1-Ulises.pdb
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/Examen P1 Ulises/Examen-P1-Ulises/obj/Debug/net8.0/Examen-P1-Ulises.genruntimeconfig.cache
+/Users/ulises/Desktop/Tareas UMG/Tercer Semestre/PROGRAMACION I/Visual Studio Code/Examen P1 Ulises/Examen-P1-Ulises/obj/Debug/net8.0/ref/Examen-P1-Ulises.dll
